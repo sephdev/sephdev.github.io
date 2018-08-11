@@ -15,5 +15,5 @@ Website Projects List
 
 <h3>Others</h3>
 <ul>
-  <li><a href="https://tindex.000webhostapp.com/newbie/index.html">Bootstrap 4 Sample Project</a></li>
+  <li><a href="https://sephdev.github.io/jt-bootstrap4">Bootstrap 4 Sample Project</a></li>
 </ul>
