@@ -7,7 +7,11 @@
 - [Todo List App](https://jt-todolist.herokuapp.com)
 
 ## Others
-- [Bootstrap 4 Site](https://tindex.000webhostapp.com/newbie/index.html)
+- [Bootstrap 4 Site](https://sephdev.github.io/jt-bootstrap4)
+
+
+
+**************************************************************
 
 
 
