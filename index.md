@@ -1,5 +1,6 @@
-My Portfolio:
-<a href="https://sephdev.github.io/_portfolio">Portfolio</a>
+#My Portfolio:
+
+[Portfolio](https://sephdev.github.io/_portfolio)
 
 
 ## Welcome to GitHub Pages
