@@ -1,6 +1,6 @@
 #My Portfolio:
 
-[Portfolio](https://sephdev.github.io/_portfolio)
+- [Portfolio](https://sephdev.github.io/_portfolio)
 
 
 ## Welcome to GitHub Pages
