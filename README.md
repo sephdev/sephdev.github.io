@@ -2,9 +2,11 @@
 
 Website Projects List
 
-Github Pages
-<a href="sephdev.github.io">Main</a>
-<a href="sephdev.github.io/_portfolio">Portfolio</a>
+<h3>Github Pages<h3>
+<ul>
+  <li><a href="sephdev.github.io">Main</a></li>
+  <li><a href="sephdev.github.io/_portfolio">Portfolio</a></li>
+</ul>
 
 Heroku
 <a href="https://jt-todolist.herokuapp.com">Todo List Rails App</a>
