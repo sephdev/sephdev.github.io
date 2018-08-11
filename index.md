@@ -1,6 +1,14 @@
-#My Portfolio:
+## My Portfolio:
 
 - [Portfolio](https://sephdev.github.io/_portfolio)
+
+## Ruby on Rails Apps
+
+- [Todo List App](https://jt-todolist.herokuapp.com)
+
+## Others
+- [Bootstrap 4 Site](https://tindex.000webhostapp.com/newbie/index.html)
+
 
 
 ## Welcome to GitHub Pages
