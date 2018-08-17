@@ -1,7 +1,7 @@
 ## My Portfolio:
 
 - [Main](https://sephdev.github.io)
-- [Portfolio](https://sephdev.github.io/_portfolio)
+- [Portfolio](https://sephdev.github.io/_portfolio) *under development
 - [Github Repo](https://github.com/sephdev)
 
 ## Ruby on Rails Apps
