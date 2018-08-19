@@ -7,6 +7,7 @@
 ## Ruby on Rails Apps
 
 - [Todo List App](https://jt-todolist.herokuapp.com)
+- [Twitr](jt-twitr.herokuapp.com) twitter-like, sample web app
 
 ## Others
 - [Bootstrap 4 Site](https://sephdev.github.io/jt-bootstrap4)
