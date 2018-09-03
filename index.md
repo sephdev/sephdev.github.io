@@ -4,6 +4,10 @@
 - [Portfolio](https://sephdev.github.io/_portfolio) *under development
 - [Github Repo](https://github.com/sephdev)
 
+## Vue.js using FireStore 
+
+- [Employee Manager](https://sephdev.github.io/employeemngr/)
+
 ## Ruby on Rails Apps
 
 - [Todo List App](https://jt-todolist.herokuapp.com)
