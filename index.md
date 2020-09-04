@@ -12,7 +12,7 @@
 
 ## Node.js
 
-- [Basic Node.js app Heroku deployment](https://pure-wildwood-79668.herokuapp.com/)
+- [PERN Stach Todo List App Deployed on Heroku](https://jt-pern-todolist.herokuapp.com/)
 
 ## Ruby on Rails Apps
 
