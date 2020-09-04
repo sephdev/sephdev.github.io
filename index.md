@@ -12,7 +12,7 @@
 
 ## Node.js
 
-- [PERN Stach Todo List App Deployed on Heroku](https://jt-pern-todolist.herokuapp.com/)
+- [PERN Stack Todo List App Deployed on Heroku](https://jt-pern-todolist.herokuapp.com/)
 
 ## Ruby on Rails Apps
 
