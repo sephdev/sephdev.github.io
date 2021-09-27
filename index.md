@@ -2,8 +2,7 @@
 
 ## My Portfolio:
 
-- [Main](https://sephdev.github.io)
-- [Portfolio](https://sephdev.github.io/_portfolio) *under development
+- [Portfolio](https://sephdev.github.io/_portfolio) 
 - [Github Repo](https://github.com/sephdev)
 
 ## Vue.js using FireStore 
