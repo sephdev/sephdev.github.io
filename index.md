@@ -3,7 +3,7 @@
 ## My Portfolio:
 
 - [Github Repo](https://github.com/sephdev)
-- [LinkedIn Profile] (https://www.linkedin.com/in/josephtandingan)
+- [LinkedIn Profile](https://www.linkedin.com/in/josephtandingan)
 
 ## Vue.js using FireStore 
 
